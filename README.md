@@ -76,7 +76,7 @@ coming soon...
 
 ## Методы обработки данных (классические байесовские фильтры)
 
-[Cсылка на плейлист с лекциями]([https://youtube.com/playlist?list=PLuMoV8RlrhkmdHOx57D8Wz3MjCSp7y5dA&si=szooqk9OlX_aJhMQ](https://youtube.com/playlist?list=PLuMoV8RlrhkmdHOx57D8Wz3MjCSp7y5dA&si=szooqk9OlX_aJhMQ))
+[Cсылка на плейлист с лекциями]([https://youtube.com/playlist?list=PLuMoV8RlrhkmdHOx57D8Wz3MjCSp7y5dA&si=szooqk9OlX_aJhMQ)
 
 ИДЗ:
 - [ ] ИДЗ - 22.12
